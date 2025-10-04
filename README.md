@@ -1,2 +1,2 @@
 # toy_ds_project
-dsci100
+project creation date: October 3, 2025
